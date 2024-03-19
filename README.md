@@ -1,0 +1,3 @@
+I'm a web dev.
+Looking forward to becoming a Fullstack in the future.
+Yoroshiku Onegaishimasu...
